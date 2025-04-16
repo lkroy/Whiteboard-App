@@ -1,4 +1,4 @@
-```markdown
+
 # Collaborative Whiteboard Application
 
 A real-time collaborative whiteboard application built with React, Node.js, Socket.IO, TailwindCSS, MongoDB, JWT, Express, RoughJS, and Perfect Freehand. This application allows multiple users to draw simultaneously, share canvases, and collaborate seamlessly with a variety of drawing tools and features.
@@ -28,7 +28,7 @@ A real-time collaborative whiteboard application built with React, Node.js, Sock
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/collab-whiteboard.git
+   git clone https://github.com/lkroy/collab-whiteboard.git
    cd collab-whiteboard
    ```
 
@@ -109,7 +109,7 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/yourusername/collab-whiteboard/issues).
+For questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/lkroy/collab-whiteboard/issues).
 
 ---
 
